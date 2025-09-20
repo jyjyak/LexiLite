@@ -11,7 +11,7 @@ An **experimental prototype** that analyzes legal contracts using multiple NLP m
 ## 🖥️ Requirements
 - Windows 10 or 11 (64-bit)  
 - At least **4 GB of free RAM** recommended  
-
+- At least **19 GB of free disk space** recommended
 ---
 
 ## ⚠️ Disclaimer
