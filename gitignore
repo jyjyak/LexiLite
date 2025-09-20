@@ -1,0 +1,29 @@
+# Virtual environments
+offline_venv/
+venv/
+ENV/
+env/
+
+# Model weights (downloaded via script)
+models/
+*.bin
+*.pt
+*.safetensors
+
+# HuggingFace + Torch caches
+.hf_cache/
+.torch_cache/
+__pycache__/
+*.pyc
+
+# SpaCy cache
+spacy_models/__pycache__/
+
+# Streamlit cache
+.streamlit/
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
